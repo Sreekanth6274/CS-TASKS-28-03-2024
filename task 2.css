@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cloth{
+    background-color: aqua;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+.image{
+    height: 300px;
+    width: 300px;
+}
+#cloth1{
+
+}
+#cloth2{
+    position: absolute;
+    left: 15%;
+    top: 55%;
+    z-index: 1;
+}
+#cloth3{
+    position: absolute;
+    top: 620px;
+    left: 10px;
+    z-index: 1;
+}
+#cloth4{
+    position: absolute;
+    top: 880px;
+    left: 200px;
+    z-index: 1;
+}
+#cloth5{
+    position: absolute;
+    top: 1150px;
+    left: 10px;
+    z-index: 1;
+}

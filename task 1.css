@@ -1,0 +1,49 @@
+.mobile{
+    color:rgb(10, 29, 199);
+    background-color: yellow
+}
+.mobiles{
+    color:rgb(10, 29, 199);
+    background-color: yellow
+}
+.Rupee{
+    &#8377;
+}
+ .add{
+    height: 50px;
+    width: 200px;
+    background-color: orange;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 900;
+ }
+ .buy{
+    height: 50px;
+    width: 200px;
+    background-color: orange;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 900;
+ }
+ .price{
+    display: flex;
+   align-items: center;
+   gap: 10px;
+ }
+ .new{
+    text-decoration: line-through;
+ }
+ .Products{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    justify-items: center;
+ }
+ .Laptops{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    justify-items: center;
+ }
